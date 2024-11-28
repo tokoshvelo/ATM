@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 88836,
+    "UserName": "toko",
+    "UserAge": 22,
+    "UserPin": 3030,
+    "UserMoney": 930
+  },
+  {
+    "Id": 101568,
+    "UserName": "tato",
+    "UserAge": 22,
+    "UserPin": 1111,
+    "UserMoney": 1000
+  },
+  {
+    "Id": 103014,
+    "UserName": "lile",
+    "UserAge": 19,
+    "UserPin": 2342,
+    "UserMoney": 2063
+  }
+]
